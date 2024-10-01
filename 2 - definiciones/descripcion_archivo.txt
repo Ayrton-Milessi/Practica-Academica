@@ -1,0 +1,113 @@
+DESCRIPCIÓN DE LAS COLUMNAS DEL ARCHIVO:
+
+    * sessionid    ---> identificador del inicio de sesión.
+
+    * query_desc   ---> campos utilizados en la búsqueda.
+
+    * type         ---> ('biblio', 'authority').
+
+    * total        ---> cantidad de registros que devuelve el sistema con los terminos ingresados.
+
+    * time         ---> fecha y hora de la búsqueda.
+
+    * branchcode   ---> identificador de la Facultad de Ingenieria('FING').
+
+    * categorycode ---> identificadores de la persona que hace la búsqueda, si es docente, de biblioteca, egresado , invitado de otra facultad,
+    alumno de intercambio, etc. ('DOCENTE', 'BIBLIOTECA', 'TEC_MED_N', 'BIOINGENIE', 'TEC_PROD_M', 'HIST', 'S', 'INVI', 'AGRO', 'INTERALUM', 'BIOINF').
+
+
+DEFINICIÓN DE LOS CAMPOS DE BÚSQUEDA UTILIZADOS POR LOS USUARIOS Y QUE BRINDA EL SISTEMA:
+
+    * kw        ----> palabra clave. Palabra que tiene que estar presente en el material.
+
+    * au/AU     ----> nombre o apellido del autor. Todo el material que esta cargado para ese autor.
+
+    * mc-itype  ----> tipo del material, ya sea libro, revista, tesis, etc.
+
+    * ti        ----> titulo del material.
+
+    * an        ----> número de la autoridad registrada en la biblioteca. Asocia ese número con X autor.
+
+    * su        ----> subtema del material. Es el contenido que esta presente en el material.
+
+    * BC/bc     ----> equivalente al codigo de barras de un producto. Nombre del inventario.
+
+    * su-to     ----> 
+
+    * callnum   ----> número del estante (en biblioteca) donde esta el material.
+
+    * I-format  ----> el formato del material. Por ejemplo puede ser fisico o online.
+
+    * YE        ----> 
+
+    * se        ---->
+
+    * In        ---->
+
+    * bx        ---->
+
+    * Provider  ---->
+
+
+DEFINICIÓN DE LOS CAMPOS DE BÚSQUEDA (ESPECIALIZADO): 
+    * kw, wrdl ---> palabra clave
+
+    * au, wrdl ---> autor
+
+    * mc-itype ---> el tipo de material que es (libro, resvista, etc)
+
+    * ti, wrdl ---> titulo del material
+
+    * an ---> autoridad registrada en el sistema. Asocia un numero con un autor
+
+    * itype ---> tipo de material
+
+    * au ---> autor 
+
+    * su, wrdl ---> subtema del material, contenido
+
+    * BC ---> 
+
+    * bc ---> equivalente al codigo de barras, nombre del inventario
+
+    * mc-itype.phr ---> tipo de material
+
+    * su-to --->
+
+    * su ---> subject, contenido del material
+
+    * callnun, wrdl ---> un numero del estante en la biblioteca
+
+    * ti, phr --->
+
+    * ti ---> titulo del material
+
+    * I-format ---> que el material esta en linea
+
+    * 
+
+    * AU --->
+
+    * YE --->
+
+    * an, phr ---> 
+
+    * se, wrdl --->
+
+    * se --->  
+
+    * In, rtrn --->
+
+    * bx ---> 
+
+    * se, phr --->
+
+    * Provider --->
+
+    ----------------------------------
+
+    * mc-itype:TE --->  alguien que busco una tesis
+
+    * mc-itype, phr: RL --->
+
+    * mc-itype: LIB
