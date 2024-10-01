@@ -18,35 +18,31 @@ DESCRIPCIÓN DE LAS COLUMNAS DEL ARCHIVO:
 
 DEFINICIÓN DE LOS CAMPOS DE BÚSQUEDA UTILIZADOS POR LOS USUARIOS Y QUE BRINDA EL SISTEMA:
 
-    * kw        ----> palabra clave. Palabra que tiene que estar presente en el material.
+    * kw        ----> palabra clave. Palabra que tiene que estar presente en el material, puede ser en cualquier campo.
 
     * au/AU     ----> nombre o apellido del autor. Todo el material que esta cargado para ese autor.
 
-    * mc-itype  ----> tipo del material, ya sea libro, revista, tesis, etc.
+    * mc-itype  ----> tipo del material, ya sea libro, revista, tesis, folleto, apuntes, sean impresas u otro formato.
 
     * ti        ----> titulo del material.
 
-    * an        ----> número de la autoridad registrada en la biblioteca. Asocia ese número con X autor.
+    * an        ----> número de la autoridad registrada en la biblioteca. Asocia ese número con X autor/materia.
 
-    * su        ----> subtema del material. Es el contenido que esta presente en el material.
+    * su        ----> materia/s asociada/s al contenido del material. Descriptores y palabras claves asignados por el personal
 
-    * BC/bc     ----> equivalente al codigo de barras de un producto. Nombre del inventario.
+    * BC/bc     ----> equivalente al codigo de barras de un producto. Número del inventario.
 
-    * su-to     ----> 
+    * su-to     ----> escritura del sistema cuando en el catalogo en linea, la sintaxis involucra un elemento inicial y le agrega un tema.
 
     * callnum   ----> número del estante (en biblioteca) donde esta el material.
 
-    * I-format  ----> el formato del material. Por ejemplo puede ser fisico o online.
+    * I-format  ----> el formato (soporte del material). Excluye impreso
 
-    * YE        ----> 
+    * se        ----> identifica una serie/colección.
 
-    * se        ---->
+    * In        ----> es el idioma del material.
 
-    * In        ---->
-
-    * bx        ---->
-
-    * Provider  ---->
+    * Provider  ----> editorial del libro.
 
 
 DEFINICIÓN DE LOS CAMPOS DE BÚSQUEDA (ESPECIALIZADO): 
