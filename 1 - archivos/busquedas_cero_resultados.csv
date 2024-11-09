@@ -159,8 +159,8 @@ c8c3c3ec1c69781cfe770ffd4f59a87a,"au,wrdl: yunes çengel, ",0,2022-06-22 17:20:1
 010dd49f42096a99e63e82e042353e5f,"kw,wrdl: iturain, ",0,2022-07-30 17:51:12,BIBLIOTECA,kw,iturain,1,no hay resultados
 010dd49f42096a99e63e82e042353e5f,"kw,wrdl: Ituraín, ",0,2022-07-30 17:51:21,BIBLIOTECA,kw,Ituraín,1,no hay resultados
 010dd49f42096a99e63e82e042353e5f,"kw,wrdl: Ituraín, ",0,2022-07-30 17:51:23,BIBLIOTECA,kw,Ituraín,1,no hay resultados
-df5336929995e391ad70c4a227f2649a,"ti,wrdl: cálculo en una variable and au,wrdl: James stewart, ",0,2022-08-11 08:10:12,BIBLIOTECA,"ti, au","cálculo en una variable and au, James stewart",2,combinacion de campos incorrecta
-df5336929995e391ad70c4a227f2649a,"ti,wrdl: cálculo en una variable and au,wrdl: James stewart, mc-itype,phr:LIB or mc-itype,phr:C",0,2022-08-11 08:10:43,BIBLIOTECA,"ti, au, mc-itype, mc-itype","cálculo en una variable and au, James stewart, LIB or mc-itype, C",4,combinacion de campos incorrecta
+df5336929995e391ad70c4a227f2649a,"ti,wrdl: cálculo en una variable and au,wrdl: James stewart, ",0,2022-08-11 08:10:12,BIBLIOTECA,"au, ti","cálculo en una variable and au, James stewart",2,combinacion de campos incorrecta
+df5336929995e391ad70c4a227f2649a,"ti,wrdl: cálculo en una variable and au,wrdl: James stewart, mc-itype,phr:LIB or mc-itype,phr:C",0,2022-08-11 08:10:43,BIBLIOTECA,"au, mc-itype, mc-itype, ti","cálculo en una variable and au, James stewart, LIB or mc-itype, C",4,combinacion de campos incorrecta
 630ec83bba4a0d8beff6652ec0acb54a,"au,wrdl: prometheus, ",0,2022-08-18 10:43:46,BIBLIOTECA,au,prometheus,1,campo incorrecto
 630ec83bba4a0d8beff6652ec0acb54a,"au,wrdl: prometheus, ",0,2022-08-18 10:44:11,BIBLIOTECA,au,prometheus,1,campo incorrecto
 09c4868691af87f5fcf99c1df80831cd,"ti,wrdl: pachaging, ",0,2022-08-22 13:52:00,BIBLIOTECA,ti,pachaging,1,error de tipeo
@@ -208,7 +208,7 @@ efb64e5db60454c64991f9196de416d3,"kw,wrdl: Data mining metodos y conocimientos, 
 28dffc31047292de54f07141c51cda00,"kw,wrdl: Serway, R., Física, Tomo I, Mc Graw-Hill, México, 1998., ",0,2023-03-20 22:37:14,BIBLIOTECA,kw,Serway,1,error de tipeo
 24c7a3f66f4cc8370e084f82cb5e4e25,"kw,wrdl: goldeman, ",0,2023-03-28 13:27:43,BIOINGENIE,kw,goldeman,1,error de tipeo
 24c7a3f66f4cc8370e084f82cb5e4e25,"au,wrdl: goldeman, ",0,2023-03-28 13:28:03,BIOINGENIE,au,goldeman,1,error de tipeo
-8bf804f05ec533e14a79cb107cd7718e,"su,wrdl: genética and kw,wrdl: ciencia que ladra, ",0,2023-03-28 14:04:55,BIBLIOTECA,"su, kw","genética and kw, ciencia que ladra",2,combinacion de campos incorrecta
+8bf804f05ec533e14a79cb107cd7718e,"su,wrdl: genética and kw,wrdl: ciencia que ladra, ",0,2023-03-28 14:04:55,BIBLIOTECA,"kw, su","genética and kw, ciencia que ladra",2,combinacion de campos incorrecta
 40fb9bd7f72a2dae819b5746ea8b91b6,"ti:investigación de operaciones, ",0,2023-03-30 16:26:46,BIBLIOTECA,ti,investigación de operaciones,1,no hay resultados
 a02589ff9735c9be29d249a305c0ba8d,"au,wrdl: boylestand, ",0,2023-04-12 10:43:46,BIBLIOTECA,au,boylestand,1,error de tipeo
 8bf8d229219ea353b26cc955107420ce,"kw,wrdl: semansky, ",0,2023-04-13 11:21:21,BIBLIOTECA,kw,semansky,1,error de tipeo
