@@ -1,4 +1,4 @@
-# Analisis del Comportamiento de Busquedas en Koha - Practica Academica
+# Análisis del Comportamiento de Búsquedas en Koha - Práctica Académica
 
 Este repositorio contiene los scripts y archivos relacionados con la práctica académica del estudiante Milessi Ayrton, desarrollada para la asignatura Espacio Integrador II en la Facultad de Ingeniería de la Universidad Nacional de Entre Ríos (FIUNER).
 
