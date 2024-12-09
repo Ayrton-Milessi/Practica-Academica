@@ -1,1 +1,19 @@
 El Sr. A. Milessi brindó herramientas de valor basándose en un registro interno del sistema que deja constancia del comportamiento de los usuarios al momento de buscar información a través del catálogo en línea
+Algunos conceptos claves:
+
+El informe que se tomó de base para la investigación forma parte de la Biblioteca de informes Koha, con lo cual el código de base ya está diseñado: https://wiki.koha-community.org/wiki/SQL_Reports_Library#Most_Popular_Searches_II
+Un requisito para que funcione es tener parametrizado las distintas categoría de usuario
+
+Compartimos algunas conclusiones, de valor para mejorar la gestión de la biblioteca: 
+
+"Uno de los hallazgos principales es que la mayoría de las búsquedas genera un
+acotado número de resultados, siendo menores a 100 materiales relacionados con las palabras y campos utilizados en las consultas. Estas consultas tienen la característica
+de ocupar un solo campo, siendo en su mayoría la palabra clave. Esto indica que los usuarios querían una respuesta sencilla y rápida a la consulta ingresada. Esto, sin
+embargo, puede limitar la precisión de los resultados obtenidos, especialmente si no se aprovecha la opción de combinar campos de búsqueda, una herramienta subutilizada
+pero eficaz para obtener resultados más específicos y relevantes. Cuando se aprovecha esta herramienta (la combinación de campos), la más elegida por los usuarios es la
+combinación entre una palabra clave y el tipo de material, siendo utilizada casi el 34% de las veces dentro de las combinaciones registradas entre los campos.
+Por otro lado, si nos fijamos en las marcas temporales de las búsquedas, encontramos la tendencia de que los meses de inicio de cuatrimestres, son los que más
+búsquedas se realizan en el catálogo de la biblioteca. Siendo esto posible por la presentación de las materias y sus contrastes bibliográficos. También, los meses de
+cursado de los cuatrimestres tienen un mayor número de búsquedas. Un área de mejora importante es el uso de los términos de búsqueda. Como vimos en el gráfico N°20, los términos más ingresados son tipos de materiales o
+nombres de autores, lo que produce una devolución en los resultados amplia. Por eso, promover el uso de las combinaciones de campos permitirá a los usuarios encontrar materiales más precisos." (Milessi, 2024)
+
