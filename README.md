@@ -1,21 +1,22 @@
-# Análisis del Comportamiento de Búsquedas en el Sistema Koha
-Este repositorio contiene los scripts y archivos relacionados con la práctica académica del estudiante Milessi Ayrton, desarrollada para la asignatura Espacio Integrador II en la Facultad de Ingeniería de la Universidad Nacional de Entre Ríos (FIUNER).
+# 📚 Análisis del Comportamiento de Búsquedas en el Sistema Koha
+Este repositorio contiene los scripts y archivos correspondientes a la práctica académica de Ayrton Milessi, desarrollada para la asignatura Espacio Integrador II de la Facultad de Ingeniería de la Universidad Nacional de Entre Ríos (FIUNER).
 
 ## 📋 Descripción del Proyecto
-La práctica académica tiene como objetivo analizar el comportamiento de búsqueda de los usuarios en el sistema Koha, utilizado por la biblioteca de la FIUNER. Donde se investigarán diferentes aspectos como:
-* Se investigará cómo los usuarios interactúan con los diferentes campos de búsqueda.
-* Análizara los términos más consultados al sistema.
-* Mostrarán las respuestas obtenidas por los usuarios.
-* Clasificación de las consultas donde no se obtuvieron respuestas.
+El objetivo de esta práctica académica es analizar el comportamiento de búsqueda de los usuarios en el sistema Koha, utilizado por la biblioteca de la FIUNER.  
+El análisis abarca los siguientes aspectos:
+- Cómo los usuarios interactúan con los distintos campos de búsqueda.
+- Cuáles son los términos más consultados en el sistema.
+- Qué tipo de respuestas obtienen los usuarios.
+- Clasificación y análisis de las búsquedas que no devolvieron resultados.
 
 ## 🛠️ Tecnologías Utilizadas
-- **Lenguajes**: Python
+- **Lenguaje**: Python  
 - **Bibliotecas**:
-    - `Pandas`
-    - `Matplotlib`
-    - `Seaborn`
-- **Entorno**: Visual Studio Code
-- **Otros**: Jupyter Notebooks (para visualización estructural)
+  - `pandas`
+  - `matplotlib`
+  - `seaborn`
+- **Entorno**: Visual Studio Code  
+- **Otros**: Jupyter Notebooks (para análisis y visualización)
 
 ## 👨‍💻 Autor
 <p align="center">
@@ -30,4 +31,4 @@ La práctica académica tiene como objetivo analizar el comportamiento de búsqu
 </p>
 
 ## ⚠️ Aviso
-El código y los análisis presentes en este repositorio están licenciados bajo la Licencia MIT.
+El código y los análisis presentes en este repositorio están licenciados bajo la Licencia MIT.  
